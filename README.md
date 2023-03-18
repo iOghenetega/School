@@ -37,7 +37,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-School-Manager">About Ze School</a>
+      <a href="#about-School-Manager">About School-Manager</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -98,7 +98,7 @@ Creating this API I practiced/implemented the following:
 
 To use this API, follow these steps:
 
-1. Open the PythonAnywhere web app on your browser: [INSERT DEPLOYED APP URL HERE]
+1. Open the PythonAnywhere web app on your browser: [http://oghenetega.pythonanywhere.com/]
 
 2. Create an admin or student account:
     - Click 'admin' to reveal a dropdown menu of administration routes, then register an admin account via the '/admin/register' route
