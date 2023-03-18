@@ -1,4 +1,4 @@
-# School
+# Alt School
 
 # School-Manager
 
