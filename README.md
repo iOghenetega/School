@@ -158,7 +158,9 @@ Project Link: [School Manager](https://github.com/iOghenetega/School-Manager)
 This project was made possible by:
 
 * [AltSchool Africa School of Engineering](https://altschoolafrica.com/schools/engineering)
+* [OlakayCoder (who walked me through the building procees](https://github.com/olakayCoder1)
 * [Caleb Emelike's Flask Lessons](https://github.com/CalebEmelike)
+* [Dipo (helped me debug)](https://github.com/Dipo-Jaiye)
 
 <p align="right"><a href="#readme-top">back to top</a></p>
 
